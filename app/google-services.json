@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764182520964",
+    "firebase_url": "https://andropuprenewed.firebaseio.com",
+    "project_id": "andropuprenewed",
+    "storage_bucket": "andropuprenewed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764182520964:android:2cf704f0408a7191",
+        "android_client_info": {
+          "package_name": "com.nanotricks.flim.andropuprenewed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764182520964-t4a28oe28h3itaphfh532h1ct6j24b0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanotricks.flim.andropuprenewed",
+            "certificate_hash": "449cf2174dc90677e210bc42bc2b7ce16a5770f3"
+          }
+        },
+        {
+          "client_id": "764182520964-29sjcec7d76vl2202f80s719l8ntegdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0aNbjm7tIJznmu8DjWzDhMEZyf2LT-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764182520964-29sjcec7d76vl2202f80s719l8ntegdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
